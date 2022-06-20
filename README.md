@@ -4,6 +4,11 @@
 
 ![Gura rip](https://cdn.discordapp.com/emojis/791125177207357530.webp?size=160&quality=lossless)
 
+## 環境設定
+
+[Windows Virtual Box 6.1.18](https://www.virtualbox.org/)  
+[Ubuntu 18.04.6 x64 desktop image](https://www.ubuntu-tw.org/modules/tinyd0/)
+
 ## 驗證通過清單
 
 ![image](https://user-images.githubusercontent.com/11408727/174532662-dfa8736a-260a-4f7d-a1da-9ac1da2f0d84.png)
